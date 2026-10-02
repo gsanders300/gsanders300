@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Geoff 👋
 
 ### 🚀 Marketing Mind × Developer Toolbelt
 I am a marketer and computer geek who uses code to eliminate repetitive work, connect fragmented systems, and solve real business challenges. I specialize in building automations, growth loops, and data pipelines that bridge the gap between creative strategy and technical execution.
