@@ -29,8 +29,8 @@ I am a marketer and computer geek who uses code to eliminate repetitive work, co
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://vercel.app[YOUR-GITHUB-USERNAME]&show_icons=true&theme=visual_studio_code&count_private=true" alt="GitHub Stats" height="160" />
-  <img src="https://vercel.app[YOUR-GITHUB-USERNAME]&layout=compact&theme=visual_studio_code" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="160" />
+  <img src="https://vercel.app[YOUR-GITHUB-USERNAME]&layout=compact&theme=dracula" alt="Top Languages" height="160" />
 </p>
 
 ---
@@ -39,6 +39,6 @@ I am a marketer and computer geek who uses code to eliminate repetitive work, co
 
 *   💼 Connect with me on [LinkedIn](https://linkedin.com[YOUR-LINKEDIN])
 *   🌐 Check out my portfolio at [YourWebsite.com](https://yourwebsite.com)
-*   ✉️ Drop me an email at **[your.email@example.com]**
+*   ✉️ Drop me a secure line at **[YOUR-ID]+[YOUR-USERNAME]@users.noreply.github.com**
 
 *"If a task has to be done twice, it's time to write a script."*
