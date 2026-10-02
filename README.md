@@ -24,12 +24,17 @@ I am a marketer and computer geek who uses code to eliminate repetitive work, co
 
 ---
 
-### 📈 GitHub Stats
+---
+
+### 📈 Code Metrics & Activity
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=gsanders300&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="160" />
-  <img src="https://vercel.app[YOUR-GITHUB-USERNAME]&layout=compact&theme=dracula" alt="Top Languages" height="160" />
+  <img src="https://vercel.app[gsanders300]&show_icons=true&theme=dracula&hide=issues,prs,contribs&rank_icon=github" alt="GitHub Stats" height="160" />
+  <img src="https://vercel.app[gsanders300]&layout=compact&theme=dracula&hide_langs_repo=[YOUR-REAL-USERNAME]" alt="Top Languages" height="160" />
 </p>
+
+---
+
 
 ---
 
