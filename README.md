@@ -18,11 +18,9 @@ I am a marketer and computer geek who uses code to eliminate repetitive work, co
 
 ### 🧰 The Tech Stack
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | ![Python](https://shields.io) ![JavaScript](https://shields.io) ![SQL](https://shields.io) |
-| **Automation & DevOps** | ![GitHub Actions](https://shields.io) ![Docker](https://shields.io) ![NodeJS](https://shields.io) |
-| **Marketing Tech** | ![Google Analytics](https://shields.io) ![Webhooks](https://shields.io) ![Zapier](https://shields.io) |
+*   **Languages:** Python | JavaScript | SQL
+*   **Automation & DevOps:** GitHub Actions | Docker | Node.js
+*   **Marketing Tech:** Google Analytics | Webhooks | Zapier
 
 ---
 
