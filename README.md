@@ -35,8 +35,7 @@ I am a marketer and computer geek who uses code to eliminate repetitive work, co
 
 ### 🤝 Let's Connect!
 
-*   💼 Connect with me on [LinkedIn](https://linkedin.com[YOUR-LINKEDIN])
-*   🌐 Check out my portfolio at [YourWebsite.com](https://yourwebsite.com)
-*   ✉️ Drop me a secure line at **[YOUR-ID]+[YOUR-USERNAME]@users.noreply.github.com**
+*   💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/geoffreysanders/)
+*   ✉️ Drop me a secure line at **138838137+gsanders300@users.noreply.github.com**
 
 *"If a task has to be done twice, it's time to write a script."*
