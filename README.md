@@ -26,10 +26,8 @@ I am a marketer and computer geek who uses code to eliminate repetitive work, co
 
 ### 📈 Code Metrics & Activity
 
-![](https://github.com/gsanders300/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/gsanders300/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/gsanders300/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/gsanders300/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+![](overview.svg)
+![](languages.svg)
 
 ---
 
