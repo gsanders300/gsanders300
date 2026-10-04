@@ -22,7 +22,7 @@ I am a data-driven marketer, husband and father - and also a life-long computer 
 
 - **LLMs & Harnesses:** Claude | Codex | Opencode
 - **Languages:** Python | JavaScript | SQL | Shell
-- **Automation** GitHub Actions | Cron
+- **Automation:** GitHub Actions | Cron
 
 ---
 
