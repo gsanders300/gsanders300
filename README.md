@@ -2,7 +2,7 @@
 
 ### **🚀 Marketing Mind × Computer Geek**
 
-I am a data-driven marketer, husband and father - and also a life-long computer geek. Prior to LLMs, I wrote SQL and occasionally wrore light JavaScript…some of my work even ran in production on citi.com for a while. But with LLMs, I’ve broadened my horizons to create tools that are actually useful to me. I hope they can be useful to you as well.
+I am a data-driven marketer, husband and father - and also a life-long computer geek. Prior to LLMs, I wrote SQL and occasionally wrote lightweight JavaScript…some of my work even ran in production on citi.com for a while. But with LLMs, I’ve broadened my horizons to create tools that are actually useful to me. I hope they can be useful to you as well.
 
 *“If a task has to be done twice, it’s time to write a script.”*
 
